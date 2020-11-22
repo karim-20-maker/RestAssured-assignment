@@ -7,3 +7,4 @@ RestAssured
 -Java
 -Maven
 -junit
+-json
